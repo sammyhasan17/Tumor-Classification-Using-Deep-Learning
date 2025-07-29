@@ -1,4 +1,4 @@
-````markdown
+
 # 🧠 Deep Learning for Tumor Classification
 
 Medical Image Analysis for Benign and Malignant Tumor Classification using PyTorch and the MedMNIST dataset.
@@ -46,7 +46,6 @@ Training pipeline includes:
    ```bash
    git clone https://github.com/yourusername/tumor-classification-pytorch.git
    cd tumor-classification-pytorch
-````
 
 2. Install dependencies:
 
