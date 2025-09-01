@@ -99,5 +99,6 @@ from tqdm import tqdm
 - 🧠 Experiment with deeper CNNs or **pre-trained architectures** like ResNet or EfficientNet
 - 🚀 Deploy as an **interactive web app** using **Streamlit** or **Flask**
 
+Thanks for Checking this out!
 
 *Disclaimer: This project is for educational and research purposes only and is not intended for clinical use.*
