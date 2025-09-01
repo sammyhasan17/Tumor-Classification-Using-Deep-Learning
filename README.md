@@ -14,7 +14,7 @@ The project uses the following core tools:
 - **PyTorch**: Primary framework for defining and training the deep learning model.
 - **Torchvision.transforms**: Used for data preprocessing and augmentation (e.g., normalization, resizing).
 - **TQDM**: For visually appealing progress bars in training loops.
-- **NumPy**: For array/tensor manipulation and helper operations.
+- **NumPy**: For mathematical array/tensor manipulation and helper operations.
 - **MedMNIST**: A curated collection of lightweight medical image datasets. We use the **BreastMNIST** subset.
 - **medmnist.INFO & Evaluator**: For dataset metadata and built-in evaluation with metrics like accuracy and AUC.
 
